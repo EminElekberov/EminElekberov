@@ -31,6 +31,10 @@
 
    
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=EminElekberov&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+    
+ <br/>
+    <a href="https://github.com/EminElekberov"><img alt="EminElekberov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EminElekberov&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" /></a>
+  <br/>
 #  Connect with me: 
 
 <p align="left">
