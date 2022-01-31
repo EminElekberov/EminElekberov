@@ -35,6 +35,10 @@
  <br/>
     <a href="https://github.com/EminElekberov"><img alt="EminElekberov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=EminElekberov&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" /></a>
   <br/>
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EminElekberov&theme=tokyonight)](https://github.com/EminElekberov/github-readme-stats)
+    
+    
 #  Connect with me: 
 
 <p align="left">
