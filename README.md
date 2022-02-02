@@ -38,6 +38,10 @@
     
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EminElekberov&theme=tokyonight)](https://github.com/EminElekberov/github-readme-stats)
     
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EminElekberov&theme=monokai)
+    
+    
+    
     
 #  Connect with me: 
 
